@@ -1,0 +1,463 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/722w3SR/figma.png",
+      "title": "Figma",
+      "details": "Figma helps the teams to create, test, and ship better designs from start to finish.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/kmTT6gx/xd.png",
+      "title": "Adobe XD",
+      "details": "Adobe XD is your UI/UX design solution platform for website and mobile app creation.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/bWq8WD3/invision.png",
+      "title": "InVision",
+      "details": "InVision is the digital product design platform used to make the world's best customer experiences.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/ccCqDP3/github-png.png",
+      "title": "Github",
+      "details": "What is GitHub? GitHub is a code hosting platform for version control and collaboration.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/rs7C4Hz/vs-code-png.png",
+      "title": "VS Code",
+      "details": "Code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/Z6sV1FL/sketch-png.png",
+      "title": "Sketch",
+      "details": "Sketch is a design toolkit built to help you create your best work - from your earliest ideas, through to final artwork.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/b6CHwL7/pycharm-png.png",
+      "title": "PyCharm",
+      "details": "Intelligent Python Assistance. PyCharm provides smart code completion, code inspections, on-the-fly error.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/LScKhr5/maze-png.png",
+      "title": "Maze",
+      "details": "Maze makes it easy to gather user insights by integrating into existing design and prototyping workflow.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/NnSj3z4/webflow-png.png",
+      "title": "Webflow",
+      "details": "Build responsive websites in your browser, then launch with a hosting or export your code.",
+      "package": "FREE 30 DAY",
+      "color": "secondary"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/LScKhr5/maze-png.png",
+      "title": "Maze",
+      "details": "Maze makes it easy to gather user insights by integrating into existing design and prototyping workflow.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/b6CHwL7/pycharm-png.png",
+      "title": "PyCharm",
+      "details": "Intelligent Python Assistance. PyCharm provides smart code completion, code inspections, on-the-fly error.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/ccCqDP3/github-png.png",
+      "title": "Github",
+      "details": "What is GitHub? GitHub is a code hosting platform for version control and collaboration.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/rs7C4Hz/vs-code-png.png",
+      "title": "VS Code",
+      "details": "Code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/Z6sV1FL/sketch-png.png",
+      "title": "Sketch",
+      "details": "Sketch is a design toolkit built to help you create your best work - from your earliest ideas, through to final artwork.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/722w3SR/figma.png",
+      "title": "Figma",
+      "details": "Figma helps the teams to create, test, and ship better designs from start to finish.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/kmTT6gx/xd.png",
+      "title": "Adobe XD",
+      "details": "Adobe XD is your UI/UX design solution platform for website and mobile app creation.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/bWq8WD3/invision.png",
+      "title": "InVision",
+      "details": "InVision is the digital product design platform used to make the world's best customer experiences.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/722w3SR/figma.png",
+      "title": "Figma",
+      "details": "Figma helps the teams to create, test, and ship better designs from start to finish.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/kmTT6gx/xd.png",
+      "title": "Adobe XD",
+      "details": "Adobe XD is your UI/UX design solution platform for website and mobile app creation.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/bWq8WD3/invision.png",
+      "title": "InVision",
+      "details": "InVision is the digital product design platform used to make the world's best customer experiences.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/ccCqDP3/github-png.png",
+      "title": "Github",
+      "details": "What is GitHub? GitHub is a code hosting platform for version control and collaboration.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/rs7C4Hz/vs-code-png.png",
+      "title": "VS Code",
+      "details": "Code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/b6CHwL7/pycharm-png.png",
+      "title": "PyCharm",
+      "details": "Intelligent Python Assistance. PyCharm provides smart code completion, code inspections, on-the-fly error.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/LScKhr5/maze-png.png",
+      "title": "Maze",
+      "details": "Maze makes it easy to gather user insights by integrating into existing design and prototyping workflow.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/NnSj3z4/webflow-png.png",
+      "title": "Webflow",
+      "details": "Build responsive websites in your browser, then launch with a hosting or export your code.",
+      "package": "FREE 30 DAY",
+      "color": "secondary"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/LScKhr5/maze-png.png",
+      "title": "Maze",
+      "details": "Maze makes it easy to gather user insights by integrating into existing design and prototyping workflow.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/b6CHwL7/pycharm-png.png",
+      "title": "PyCharm",
+      "details": "Intelligent Python Assistance. PyCharm provides smart code completion, code inspections, on-the-fly error.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/ccCqDP3/github-png.png",
+      "title": "Github",
+      "details": "What is GitHub? GitHub is a code hosting platform for version control and collaboration.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/rs7C4Hz/vs-code-png.png",
+      "title": "VS Code",
+      "details": "Code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/Z6sV1FL/sketch-png.png",
+      "title": "Sketch",
+      "details": "Sketch is a design toolkit built to help you create your best work - from your earliest ideas, through to final artwork.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/722w3SR/figma.png",
+      "title": "Figma",
+      "details": "Figma helps the teams to create, test, and ship better designs from start to finish.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/kmTT6gx/xd.png",
+      "title": "Adobe XD",
+      "details": "Adobe XD is your UI/UX design solution platform for website and mobile app creation.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/bWq8WD3/invision.png",
+      "title": "InVision",
+      "details": "InVision is the digital product design platform used to make the world's best customer experiences.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    }
+  ],
+
+  "newtools": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/fXtT839/Framer-png.png",
+      "title": "Framer",
+      "details": "It's prototyping made simple—no code required, browser-based.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/ykPys3p/Whimsical-png.png",
+      "title": "Whimsical",
+      "details": "Communicate visually at the speed of thought – collaborative flowcharts.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/fnZFPpq/Mind-Master-png.png",
+      "title": "MindMaster",
+      "details": "Full-featured collaborative mind mapping and brainstorming tool.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/X7m3wJf/Whimsical-png-2.png",
+      "title": "Whimsical",
+      "details": "Zapier moves info between your web apps automatically.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/WPWB6kk/Atom-png.png",
+      "title": "Atom",
+      "details": "Atom is a Full-featured collaborative desktop text editor.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/j608QZG/Marvel-png.png",
+      "title": "Marvel",
+      "details": "Marvel is web design tool that’s great for producing quick ideas.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/9GdWXCG/Proto-Pie-png.png",
+      "title": "ProtoPie",
+      "details": "ProtoPie allows to create complex interactions design’s.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/CVZB3Nk/Mockflow-png.png",
+      "title": "Mockflow",
+      "details": "MockFlow is a suite of applications for wireframing and planning websites.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/51ScyTW/Justinmind-png.png",
+      "title": "Justinmind",
+      "details": "Justinmind will help with prototyping, and integrates with other tools.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/s2xSKmm/Interplay-png.png",
+      "title": "Interplay",
+      "details": "Prototyping system that improves communication and collaboration.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/9GdWXCG/Proto-Pie-png.png",
+      "title": "ProtoPie",
+      "details": "ProtoPie allows to create complex interactions design’s.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/CVZB3Nk/Mockflow-png.png",
+      "title": "Mockflow",
+      "details": "MockFlow is a suite of applications for wireframing and planning websites.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/51ScyTW/Justinmind-png.png",
+      "title": "Justinmind",
+      "details": "Justinmind will help with prototyping, and integrates with other tools.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/fXtT839/Framer-png.png",
+      "title": "Framer",
+      "details": "It's prototyping made simple—no code required, browser-based.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/ykPys3p/Whimsical-png.png",
+      "title": "Whimsical",
+      "details": "Communicate visually at the speed of thought – collaborative flowcharts.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/fnZFPpq/Mind-Master-png.png",
+      "title": "MindMaster",
+      "details": "Full-featured collaborative mind mapping and brainstorming tool.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/fnZFPpq/Mind-Master-png.png",
+      "title": "MindMaster",
+      "details": "Full-featured collaborative mind mapping and brainstorming tool.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/X7m3wJf/Whimsical-png-2.png",
+      "title": "Whimsical",
+      "details": "Zapier moves info between your web apps automatically.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/WPWB6kk/Atom-png.png",
+      "title": "Atom",
+      "details": "Atom is a Full-featured collaborative desktop text editor.",
+      "package": "FREE",
+      "color": "myGreen"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/j608QZG/Marvel-png.png",
+      "title": "Marvel",
+      "details": "Marvel is web design tool that’s great for producing quick ideas.",
+      "package": "PREMIUM",
+      "color": "myYellow"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/9GdWXCG/Proto-Pie-png.png",
+      "title": "ProtoPie",
+      "details": "ProtoPie allows to create complex interactions design’s.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/CVZB3Nk/Mockflow-png.png",
+      "title": "Mockflow",
+      "details": "MockFlow is a suite of applications for wireframing and planning websites.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/51ScyTW/Justinmind-png.png",
+      "title": "Justinmind",
+      "details": "Justinmind will help with prototyping, and integrates with other tools.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/s2xSKmm/Interplay-png.png",
+      "title": "Interplay",
+      "details": "Prototyping system that improves communication and collaboration.",
+      "package": "FREE 30 DAY",
+      "color": "primary"
+    } 
+  ]
+}
